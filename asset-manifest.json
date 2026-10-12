@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/LedFx-Frontend-v2/static/css/main.6e31a61a.css",
-    "main.js": "/LedFx-Frontend-v2/static/js/main.9cc6c719.js",
+    "main.css": "/LedFx-Frontend-v2/static/css/main.43913191.css",
+    "main.js": "/LedFx-Frontend-v2/static/js/main.ae6ba68e.js",
     "static/js/882.6322ae33.chunk.js": "/LedFx-Frontend-v2/static/js/882.6322ae33.chunk.js",
-    "static/js/429.b62d6362.chunk.js": "/LedFx-Frontend-v2/static/js/429.b62d6362.chunk.js",
-    "static/js/464.efa9ae26.chunk.js": "/LedFx-Frontend-v2/static/js/464.efa9ae26.chunk.js",
+    "static/js/429.fff95a68.chunk.js": "/LedFx-Frontend-v2/static/js/429.fff95a68.chunk.js",
+    "static/js/464.fddaa646.chunk.js": "/LedFx-Frontend-v2/static/js/464.fddaa646.chunk.js",
     "static/js/956.3a0efdd7.chunk.js": "/LedFx-Frontend-v2/static/js/956.3a0efdd7.chunk.js",
     "static/js/685.ac031951.chunk.js": "/LedFx-Frontend-v2/static/js/685.ac031951.chunk.js",
     "static/media/materialdesignicons-webfont.woff": "/LedFx-Frontend-v2/static/media/materialdesignicons-webfont.059ea00c378aeafc39fc.woff",
@@ -16,6 +16,7 @@
     "static/media/Nunito-Regular.ttf": "/LedFx-Frontend-v2/static/media/Nunito-Regular.9d7a6e03c6e3ed49c7ac.ttf",
     "static/media/launchpad.png": "/LedFx-Frontend-v2/static/media/launchpad.4a1e671d782cbad8d71e.png",
     "static/media/MaterialIcons-Regular.woff2": "/LedFx-Frontend-v2/static/media/MaterialIcons-Regular.f71673ad689fb42ddae1.woff2",
+    "static/media/app-icon.png": "/LedFx-Frontend-v2/static/media/app-icon.b3d2950a96323940d694.png",
     "service-worker.js": "/LedFx-Frontend-v2/service-worker.js",
     "static/media/mixedContent2.webp": "/LedFx-Frontend-v2/static/media/mixedContent2.7aafad8cbef70f792bd9.webp",
     "static/media/blademod.svg": "/LedFx-Frontend-v2/static/media/blademod.f939f478785a84b3edcc820eef654556.svg",
@@ -44,7 +45,7 @@
     "static/media/left-snake-flip.svg": "/LedFx-Frontend-v2/static/media/left-snake-flip.866a1a9f220801e888735cdfa6f22698.svg"
   },
   "entrypoints": [
-    "static/css/main.6e31a61a.css",
-    "static/js/main.9cc6c719.js"
+    "static/css/main.43913191.css",
+    "static/js/main.ae6ba68e.js"
   ]
 }
